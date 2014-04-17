@@ -1,6 +1,10 @@
 # Snapsvg::Rails
 
-TODO: Write a gem description
+##Snap.svg
+
+The JavaScript SVG library for the modern web.
+
+http://snapsvg.io/
 
 ## Installation
 
@@ -18,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following to your application.js
+
+    //= require snap
+
+Full documentation available at: http://snapsvg.io/docs/
 
 ## Contributing
 
