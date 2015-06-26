@@ -24,7 +24,7 @@ Or install it yourself as:
 
 Add the following to your application.js
 
-    //= require snap
+    //= require snapsvg
 
 Full documentation available at: http://snapsvg.io/docs/
 
